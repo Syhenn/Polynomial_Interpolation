@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 from multiprocessing import Pool
 """
 Created on Mon Jan 01 10:01:15 2024
-@author : HENQUIN, MACHIELS, LEGROS, BUSELLATO
 """
 # Définition de la méthode de Lagrange pour l'interpolation polynomiale
 def lagrange_interpolation(x, y, xi):
